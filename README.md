@@ -4,5 +4,7 @@
 
 ## Ссылка на тетрадку в Github https://github.com/alexdyul/Network/blob/main/HW_2_Network.ipynb
 
+## Ссылка на PDF (кривовытый) https://github.com/alexdyul/Network/blob/main/HW_2_Network.ipynb%20-%20Colaboratory.pdf
+
 ### Мне не удалось добавить подписи к вершинам в Python, поэтому я это сделал в Gephi ![](https://github.com/alexdyul/Network/blob/main/friends.png)
 
